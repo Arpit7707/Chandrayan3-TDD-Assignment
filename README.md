@@ -6,6 +6,8 @@ above or below the galactic plane).
 
 This Repository contains logic and test cases for this project 
 
-Clone this repo using #git clone <url>
-and run #npx mocha src/tests/SpacecraftControl.test.js 
+Clone this repo using 
+# git clone <url>
+and run 
+# npx mocha src/tests/SpacecraftControl.test.js 
 to run test.
